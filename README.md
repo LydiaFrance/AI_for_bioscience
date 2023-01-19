@@ -6,6 +6,6 @@ Materials for learning about...
 
 Also learn about ✨ reproducible coding for open science! ✨
 
-## Unsupervised Learning Part II -- PCA
+## Unsupervised Learning Part II -- PCA
 
 ## Supervised Machine Learning -- Neural Networks

@@ -1,4 +1,4 @@
-# AI_for_bioscience
+# AI for Biosciences
 
 Materials for learning about...
 
